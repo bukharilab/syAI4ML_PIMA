@@ -1,0 +1,769 @@
+SampleNumber,Outcome,Pregnancies_Bucket,Glucose_Bucket,BloodPressure_Bucket,SkinThickness_Bucket,Insulin_Bucket,BMI_Bucket,DiabetesPedigreeFunction_Bucket,Age_Bucket
+0,1,normal pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,high age
+1,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,,high bmi,normal diabetes pedigree function,normal age
+2,1,high pregnancies,high glucose,normal blood pressure,,,normal bmi,normal diabetes pedigree function,normal age
+3,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+4,1,low pregnancies,high glucose,low blood pressure,high skin thickness,high insulin,high bmi,high diabetes pedigree function,normal age
+5,0,normal pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,normal age
+6,1,low pregnancies,normal glucose,low blood pressure,high skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+7,0,high pregnancies,high glucose,,,,high bmi,low diabetes pedigree function,low age
+8,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,high age
+9,1,high pregnancies,high glucose,high blood pressure,,,,low diabetes pedigree function,high age
+10,0,normal pregnancies,high glucose,high blood pressure,,,high bmi,low diabetes pedigree function,normal age
+11,1,high pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,normal age
+12,0,high pregnancies,high glucose,normal blood pressure,,,high bmi,high diabetes pedigree function,high age
+13,1,low pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+14,1,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+15,1,normal pregnancies,high glucose,,,,high bmi,normal diabetes pedigree function,normal age
+16,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,normal age
+17,1,normal pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,normal age
+18,0,low pregnancies,high glucose,low blood pressure,high skin thickness,normal insulin,high bmi,low diabetes pedigree function,normal age
+19,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,normal age
+20,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+21,0,high pregnancies,normal glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,high age
+22,1,normal pregnancies,high glucose,high blood pressure,,,high bmi,normal diabetes pedigree function,high age
+23,1,high pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,low age
+24,1,high pregnancies,high glucose,high blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,high age
+25,1,high pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,high age
+26,1,normal pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+27,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,high insulin,normal bmi,normal diabetes pedigree function,low age
+28,0,high pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,normal bmi,low diabetes pedigree function,high age
+29,0,normal pregnancies,high glucose,high blood pressure,,,high bmi,normal diabetes pedigree function,normal age
+30,0,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,normal diabetes pedigree function,high age
+31,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,high diabetes pedigree function,low age
+32,0,low pregnancies,normal glucose,low blood pressure,low skin thickness,normal insulin,normal bmi,low diabetes pedigree function,low age
+33,0,normal pregnancies,normal glucose,high blood pressure,,,normal bmi,low diabetes pedigree function,low age
+34,0,high pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,high age
+35,0,normal pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,normal bmi,high diabetes pedigree function,normal age
+36,0,high pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,normal age
+37,1,high pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,high age
+38,1,low pregnancies,normal glucose,normal blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,low age
+39,1,normal pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,high diabetes pedigree function,high age
+40,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+41,0,normal pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,normal age
+42,0,normal pregnancies,high glucose,high blood pressure,normal skin thickness,,normal bmi,low diabetes pedigree function,high age
+43,1,high pregnancies,high glucose,high blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+44,0,normal pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+45,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,high diabetes pedigree function,low age
+46,0,low pregnancies,high glucose,low blood pressure,,,high bmi,normal diabetes pedigree function,low age
+47,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,,high bmi,normal diabetes pedigree function,low age
+48,1,normal pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,normal age
+49,0,normal pregnancies,high glucose,,,,,normal diabetes pedigree function,low age
+50,0,low pregnancies,high glucose,normal blood pressure,low skin thickness,normal insulin,normal bmi,normal diabetes pedigree function,low age
+51,0,low pregnancies,high glucose,low blood pressure,normal skin thickness,normal insulin,normal bmi,normal diabetes pedigree function,low age
+52,0,normal pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,normal bmi,normal diabetes pedigree function,normal age
+53,1,high pregnancies,high glucose,high blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+54,0,normal pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+55,0,low pregnancies,normal glucose,low blood pressure,low skin thickness,,normal bmi,low diabetes pedigree function,low age
+56,1,normal pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,high age
+57,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,high diabetes pedigree function,normal age
+58,0,low pregnancies,high glucose,normal blood pressure,,,high bmi,high diabetes pedigree function,high age
+59,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,low age
+60,0,low pregnancies,normal glucose,,,,,normal diabetes pedigree function,low age
+61,1,high pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,normal age
+62,0,normal pregnancies,low glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,normal age
+63,0,low pregnancies,high glucose,low blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+64,1,normal pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+65,0,normal pregnancies,normal glucose,normal blood pressure,normal skin thickness,,high bmi,low diabetes pedigree function,normal age
+66,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,high diabetes pedigree function,normal age
+67,0,low pregnancies,high glucose,high blood pressure,,,high bmi,high diabetes pedigree function,high age
+68,0,low pregnancies,normal glucose,normal blood pressure,low skin thickness,normal insulin,normal bmi,normal diabetes pedigree function,low age
+69,0,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+70,1,low pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,high diabetes pedigree function,low age
+71,0,normal pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+72,1,high pregnancies,high glucose,high blood pressure,,,high bmi,normal diabetes pedigree function,high age
+73,0,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,low diabetes pedigree function,low age
+74,0,low pregnancies,normal glucose,normal blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,low age
+75,0,low pregnancies,,low blood pressure,normal skin thickness,,normal bmi,low diabetes pedigree function,low age
+76,0,normal pregnancies,low glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,high age
+77,0,normal pregnancies,normal glucose,normal blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,low age
+78,1,low pregnancies,high glucose,,,,high bmi,low diabetes pedigree function,low age
+79,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,normal diabetes pedigree function,low age
+80,0,low pregnancies,high glucose,low blood pressure,low skin thickness,,normal bmi,low diabetes pedigree function,low age
+81,0,low pregnancies,normal glucose,,,,,low diabetes pedigree function,low age
+82,0,normal pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,normal age
+83,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,,normal bmi,low diabetes pedigree function,low age
+84,1,normal pregnancies,high glucose,high blood pressure,,,high bmi,low diabetes pedigree function,normal age
+85,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+86,0,high pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,high age
+87,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+88,1,high pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,low diabetes pedigree function,high age
+89,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,low diabetes pedigree function,low age
+90,0,low pregnancies,normal glucose,low blood pressure,,,normal bmi,low diabetes pedigree function,low age
+91,0,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,normal age
+92,0,normal pregnancies,normal glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,low diabetes pedigree function,high age
+93,1,normal pregnancies,high glucose,normal blood pressure,,,normal bmi,low diabetes pedigree function,high age
+94,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,normal bmi,normal diabetes pedigree function,low age
+95,0,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,low diabetes pedigree function,high age
+96,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,,high bmi,low diabetes pedigree function,low age
+97,0,low pregnancies,normal glucose,low blood pressure,normal skin thickness,normal insulin,normal bmi,normal diabetes pedigree function,low age
+98,0,normal pregnancies,normal glucose,low blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+99,1,low pregnancies,high glucose,high blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,normal age
+100,1,low pregnancies,high glucose,normal blood pressure,,,high bmi,high diabetes pedigree function,normal age
+101,0,low pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,low age
+102,0,low pregnancies,high glucose,high blood pressure,,,normal bmi,low diabetes pedigree function,low age
+103,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+104,0,low pregnancies,normal glucose,normal blood pressure,,,high bmi,high diabetes pedigree function,low age
+105,0,low pregnancies,high glucose,low blood pressure,normal skin thickness,high insulin,high bmi,high diabetes pedigree function,low age
+106,0,low pregnancies,normal glucose,high blood pressure,,,normal bmi,low diabetes pedigree function,low age
+107,0,normal pregnancies,high glucose,low blood pressure,normal skin thickness,high insulin,high bmi,low diabetes pedigree function,normal age
+108,0,low pregnancies,normal glucose,low blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+109,1,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+110,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,low age
+111,1,high pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+112,0,low pregnancies,normal glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+113,0,normal pregnancies,normal glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,low age
+114,1,normal pregnancies,high glucose,low blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,normal age
+115,1,normal pregnancies,high glucose,high blood pressure,,,high bmi,normal diabetes pedigree function,high age
+116,1,normal pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,normal age
+117,0,normal pregnancies,normal glucose,low blood pressure,,,high bmi,normal diabetes pedigree function,low age
+118,0,normal pregnancies,normal glucose,normal blood pressure,normal skin thickness,,high bmi,normal diabetes pedigree function,low age
+119,0,normal pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,normal bmi,low diabetes pedigree function,low age
+120,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+121,0,normal pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,low age
+122,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+123,0,normal pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+124,1,low pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,low age
+125,1,low pregnancies,normal glucose,low blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+126,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,normal age
+127,0,low pregnancies,high glucose,low blood pressure,high skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+128,1,low pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+129,1,low pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,high age
+130,1,normal pregnancies,high glucose,normal blood pressure,low skin thickness,high insulin,high bmi,normal diabetes pedigree function,normal age
+131,1,high pregnancies,high glucose,low blood pressure,,,high bmi,high diabetes pedigree function,normal age
+132,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,normal age
+133,0,high pregnancies,normal glucose,normal blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,normal age
+134,0,low pregnancies,normal glucose,normal blood pressure,low skin thickness,normal insulin,normal bmi,normal diabetes pedigree function,low age
+135,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,low diabetes pedigree function,normal age
+136,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+137,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+138,0,low pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,low age
+139,0,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,low diabetes pedigree function,low age
+140,0,low pregnancies,high glucose,normal blood pressure,,,normal bmi,low diabetes pedigree function,high age
+141,0,normal pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,normal age
+142,0,low pregnancies,high glucose,low blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+143,1,high pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+144,0,normal pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,low age
+145,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,,,normal diabetes pedigree function,low age
+146,0,high pregnancies,low glucose,normal blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,high age
+147,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,high diabetes pedigree function,normal age
+148,0,normal pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+149,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,,high bmi,low diabetes pedigree function,low age
+150,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+151,0,normal pregnancies,high glucose,normal blood pressure,,,normal bmi,normal diabetes pedigree function,normal age
+152,1,high pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,high diabetes pedigree function,high age
+153,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+154,1,high pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+155,1,normal pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,normal age
+156,0,low pregnancies,normal glucose,low blood pressure,normal skin thickness,normal insulin,normal bmi,normal diabetes pedigree function,low age
+157,0,low pregnancies,high glucose,low blood pressure,normal skin thickness,high insulin,high bmi,high diabetes pedigree function,low age
+158,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+159,1,high pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,high diabetes pedigree function,high age
+160,0,normal pregnancies,high glucose,high blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,normal age
+161,0,normal pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,low diabetes pedigree function,high age
+162,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,low age
+163,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,normal diabetes pedigree function,low age
+164,1,low pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,normal age
+165,1,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+166,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,low diabetes pedigree function,low age
+167,0,normal pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,normal age
+168,0,normal pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,low age
+169,0,low pregnancies,high glucose,high blood pressure,low skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+170,1,normal pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,normal age
+171,1,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+172,0,low pregnancies,normal glucose,,normal skin thickness,,high bmi,normal diabetes pedigree function,low age
+173,0,low pregnancies,normal glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+174,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,normal age
+175,1,high pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,normal age
+176,0,normal pregnancies,normal glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,high age
+177,1,low pregnancies,high glucose,high blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+178,0,normal pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+179,1,normal pregnancies,high glucose,normal blood pressure,,,high bmi,high diabetes pedigree function,normal age
+180,0,normal pregnancies,normal glucose,normal blood pressure,,,normal bmi,low diabetes pedigree function,normal age
+181,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+182,0,low pregnancies,,normal blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+183,0,normal pregnancies,normal glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,low age
+184,0,normal pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+185,1,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,normal diabetes pedigree function,high age
+186,1,high pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+187,1,low pregnancies,high glucose,high blood pressure,high skin thickness,normal insulin,high bmi,high diabetes pedigree function,normal age
+188,1,high pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,normal age
+189,1,normal pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+190,0,low pregnancies,high glucose,normal blood pressure,,,normal bmi,low diabetes pedigree function,low age
+191,0,high pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,high age
+192,1,normal pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,normal age
+193,1,high pregnancies,high glucose,,,,high bmi,normal diabetes pedigree function,high age
+194,0,high pregnancies,normal glucose,low blood pressure,normal skin thickness,,normal bmi,low diabetes pedigree function,high age
+195,1,normal pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+196,0,low pregnancies,high glucose,low blood pressure,,,normal bmi,low diabetes pedigree function,low age
+197,1,low pregnancies,high glucose,normal blood pressure,low skin thickness,normal insulin,normal bmi,normal diabetes pedigree function,low age
+198,1,normal pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,high diabetes pedigree function,low age
+199,1,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,low diabetes pedigree function,low age
+200,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,high diabetes pedigree function,low age
+201,0,low pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,low age
+202,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,normal diabetes pedigree function,normal age
+203,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,normal bmi,low diabetes pedigree function,low age
+204,0,normal pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+205,0,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,,normal bmi,normal diabetes pedigree function,low age
+206,1,high pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+207,1,normal pregnancies,high glucose,high blood pressure,,,high bmi,low diabetes pedigree function,high age
+208,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+209,1,normal pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,high age
+210,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,,high bmi,low diabetes pedigree function,low age
+211,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,low age
+212,0,normal pregnancies,high glucose,high blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,high age
+213,1,low pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+214,1,high pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,normal age
+215,1,high pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,normal age
+216,1,normal pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+217,0,normal pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,normal age
+218,1,normal pregnancies,normal glucose,normal blood pressure,normal skin thickness,,high bmi,high diabetes pedigree function,normal age
+219,1,normal pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+220,1,low pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,high diabetes pedigree function,low age
+221,1,low pregnancies,high glucose,high blood pressure,,,high bmi,high diabetes pedigree function,high age
+222,0,normal pregnancies,high glucose,,,,high bmi,low diabetes pedigree function,normal age
+223,0,normal pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+224,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,normal bmi,normal diabetes pedigree function,low age
+225,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+226,0,low pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,low age
+227,1,low pregnancies,high glucose,low blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,low age
+228,0,normal pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,high diabetes pedigree function,normal age
+229,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+230,1,normal pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,low age
+231,1,normal pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,high age
+232,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+233,0,normal pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,low age
+234,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+235,1,normal pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,low age
+236,1,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+237,1,low pregnancies,high glucose,high blood pressure,normal skin thickness,,high bmi,normal diabetes pedigree function,low age
+238,1,high pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,high diabetes pedigree function,normal age
+239,0,low pregnancies,high glucose,normal blood pressure,,,low bmi,normal diabetes pedigree function,low age
+240,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,,high bmi,low diabetes pedigree function,low age
+241,0,normal pregnancies,normal glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+242,1,low pregnancies,high glucose,low blood pressure,,,high bmi,normal diabetes pedigree function,low age
+243,1,normal pregnancies,high glucose,low blood pressure,normal skin thickness,high insulin,high bmi,high diabetes pedigree function,normal age
+244,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+245,1,high pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,high diabetes pedigree function,high age
+246,0,high pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+247,0,low pregnancies,high glucose,high blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+248,0,high pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,normal age
+249,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,low diabetes pedigree function,low age
+250,0,high pregnancies,high glucose,low blood pressure,,,high bmi,normal diabetes pedigree function,high age
+251,0,low pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,low age
+252,0,low pregnancies,normal glucose,normal blood pressure,low skin thickness,normal insulin,normal bmi,low diabetes pedigree function,low age
+253,0,low pregnancies,normal glucose,normal blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,low age
+254,1,high pregnancies,normal glucose,normal blood pressure,low skin thickness,high insulin,high bmi,high diabetes pedigree function,high age
+255,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,low age
+256,0,low pregnancies,high glucose,low blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,normal age
+257,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,low diabetes pedigree function,low age
+258,0,low pregnancies,high glucose,low blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+259,1,high pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,high diabetes pedigree function,high age
+260,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,low diabetes pedigree function,normal age
+261,1,low pregnancies,high glucose,,,,high bmi,normal diabetes pedigree function,low age
+262,0,normal pregnancies,normal glucose,normal blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,low age
+263,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,low diabetes pedigree function,high age
+264,1,normal pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,normal age
+265,0,normal pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,high diabetes pedigree function,high age
+266,1,low pregnancies,high glucose,,,,high bmi,high diabetes pedigree function,low age
+267,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,high diabetes pedigree function,low age
+268,0,low pregnancies,high glucose,low blood pressure,,,high bmi,low diabetes pedigree function,low age
+269,1,low pregnancies,high glucose,,,,high bmi,low diabetes pedigree function,low age
+270,1,high pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,high diabetes pedigree function,normal age
+271,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+272,0,low pregnancies,high glucose,normal blood pressure,,,normal bmi,low diabetes pedigree function,high age
+273,0,low pregnancies,normal glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+274,0,high pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+275,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+276,1,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,low diabetes pedigree function,low age
+277,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+278,0,normal pregnancies,high glucose,normal blood pressure,,,normal bmi,normal diabetes pedigree function,high age
+279,0,low pregnancies,high glucose,normal blood pressure,low skin thickness,high insulin,high bmi,high diabetes pedigree function,low age
+280,1,low pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,low age
+281,0,high pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,normal age
+282,0,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,low diabetes pedigree function,normal age
+283,1,normal pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+284,1,low pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+285,0,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+286,0,normal pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,normal age
+287,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,high diabetes pedigree function,low age
+288,0,normal pregnancies,normal glucose,low blood pressure,normal skin thickness,normal insulin,normal bmi,normal diabetes pedigree function,low age
+289,0,normal pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,low diabetes pedigree function,normal age
+290,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+291,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+292,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,high diabetes pedigree function,normal age
+293,1,low pregnancies,high glucose,low blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+294,0,low pregnancies,high glucose,low blood pressure,,,normal bmi,low diabetes pedigree function,high age
+295,0,normal pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+296,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+297,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+298,1,high pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+299,0,high pregnancies,high glucose,normal blood pressure,,,normal bmi,high diabetes pedigree function,high age
+300,1,low pregnancies,high glucose,,,,high bmi,high diabetes pedigree function,normal age
+301,1,low pregnancies,high glucose,low blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+302,0,normal pregnancies,normal glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,low diabetes pedigree function,normal age
+303,1,normal pregnancies,high glucose,high blood pressure,,,high bmi,low diabetes pedigree function,low age
+304,0,low pregnancies,high glucose,normal blood pressure,,,normal bmi,low diabetes pedigree function,normal age
+305,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+306,1,high pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+307,0,low pregnancies,high glucose,normal blood pressure,low skin thickness,high insulin,normal bmi,low diabetes pedigree function,low age
+308,1,low pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,high diabetes pedigree function,low age
+309,1,low pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,high diabetes pedigree function,normal age
+310,0,normal pregnancies,normal glucose,normal blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,high age
+311,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+312,1,low pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+313,0,low pregnancies,high glucose,low blood pressure,low skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+314,1,normal pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,high diabetes pedigree function,high age
+315,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+316,0,low pregnancies,normal glucose,normal blood pressure,low skin thickness,normal insulin,normal bmi,low diabetes pedigree function,normal age
+317,1,low pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,low age
+318,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,low age
+319,1,normal pregnancies,high glucose,normal blood pressure,,,normal bmi,low diabetes pedigree function,high age
+320,0,normal pregnancies,high glucose,normal blood pressure,low skin thickness,high insulin,high bmi,normal diabetes pedigree function,normal age
+321,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,low age
+322,1,low pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,low diabetes pedigree function,normal age
+323,1,high pregnancies,high glucose,high blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,high age
+324,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,low age
+325,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,low diabetes pedigree function,low age
+326,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,normal age
+327,0,high pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,normal age
+328,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+329,0,normal pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,low diabetes pedigree function,normal age
+330,0,high pregnancies,high glucose,normal blood pressure,normal skin thickness,,normal bmi,high diabetes pedigree function,high age
+331,0,low pregnancies,normal glucose,low blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+332,1,low pregnancies,high glucose,,,,high bmi,low diabetes pedigree function,high age
+333,0,high pregnancies,high glucose,normal blood pressure,,,normal bmi,low diabetes pedigree function,high age
+334,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,normal bmi,low diabetes pedigree function,low age
+335,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,low age
+336,0,low pregnancies,high glucose,,,,high bmi,high diabetes pedigree function,high age
+337,1,normal pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,high age
+338,1,high pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,high diabetes pedigree function,normal age
+339,1,normal pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,high age
+340,0,low pregnancies,high glucose,normal blood pressure,low skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+341,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,normal age
+342,0,low pregnancies,,normal blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,low age
+343,0,normal pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,normal age
+344,0,high pregnancies,normal glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,high age
+345,0,high pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,high age
+346,0,low pregnancies,high glucose,low blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+347,0,low pregnancies,high glucose,,,,normal bmi,low diabetes pedigree function,low age
+348,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,normal bmi,low diabetes pedigree function,low age
+349,1,normal pregnancies,,normal blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,normal age
+350,0,normal pregnancies,normal glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,low age
+351,0,normal pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,normal age
+352,0,low pregnancies,low glucose,normal blood pressure,normal skin thickness,,high bmi,low diabetes pedigree function,high age
+353,0,low pregnancies,normal glucose,normal blood pressure,low skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+354,0,low pregnancies,normal glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,low age
+355,1,high pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,high age
+356,1,low pregnancies,high glucose,low blood pressure,high skin thickness,high insulin,high bmi,high diabetes pedigree function,low age
+357,1,high pregnancies,high glucose,,high skin thickness,,high bmi,normal diabetes pedigree function,high age
+358,0,high pregnancies,normal glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,high age
+359,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,high diabetes pedigree function,low age
+360,1,normal pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+361,0,normal pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+362,0,normal pregnancies,high glucose,high blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,high age
+363,1,normal pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,high age
+364,0,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,normal age
+365,0,normal pregnancies,normal glucose,low blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,normal age
+366,1,normal pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,low age
+367,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,,normal bmi,low diabetes pedigree function,low age
+368,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+369,1,low pregnancies,high glucose,high blood pressure,normal skin thickness,high insulin,high bmi,low diabetes pedigree function,high age
+370,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,high diabetes pedigree function,low age
+371,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,,high diabetes pedigree function,low age
+372,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+373,0,low pregnancies,high glucose,low blood pressure,high skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+374,0,low pregnancies,high glucose,low blood pressure,high skin thickness,high insulin,high bmi,high diabetes pedigree function,low age
+375,1,high pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+376,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+377,0,low pregnancies,normal glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+378,1,normal pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,normal age
+379,0,low pregnancies,normal glucose,high blood pressure,high skin thickness,normal insulin,high bmi,high diabetes pedigree function,normal age
+380,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,high diabetes pedigree function,low age
+381,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,,normal bmi,low diabetes pedigree function,low age
+382,0,low pregnancies,high glucose,normal blood pressure,low skin thickness,high insulin,high bmi,high diabetes pedigree function,low age
+383,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,high diabetes pedigree function,low age
+384,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,normal bmi,low diabetes pedigree function,low age
+385,0,low pregnancies,high glucose,low blood pressure,low skin thickness,normal insulin,normal bmi,low diabetes pedigree function,low age
+386,1,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,normal diabetes pedigree function,normal age
+387,1,high pregnancies,high glucose,high blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,high age
+388,1,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+389,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,high diabetes pedigree function,low age
+390,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+391,1,normal pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,low age
+392,0,low pregnancies,high glucose,normal blood pressure,low skin thickness,high insulin,normal bmi,normal diabetes pedigree function,low age
+393,0,normal pregnancies,high glucose,normal blood pressure,low skin thickness,normal insulin,normal bmi,normal diabetes pedigree function,normal age
+394,1,normal pregnancies,high glucose,normal blood pressure,,,high bmi,high diabetes pedigree function,normal age
+395,0,low pregnancies,high glucose,low blood pressure,normal skin thickness,high insulin,high bmi,high diabetes pedigree function,low age
+396,0,low pregnancies,normal glucose,low blood pressure,high skin thickness,normal insulin,normal bmi,high diabetes pedigree function,normal age
+397,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,low age
+398,0,low pregnancies,normal glucose,normal blood pressure,,,normal bmi,normal diabetes pedigree function,low age
+399,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,low age
+400,1,normal pregnancies,normal glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,normal age
+401,0,normal pregnancies,high glucose,normal blood pressure,,,normal bmi,low diabetes pedigree function,high age
+402,1,normal pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,low diabetes pedigree function,normal age
+403,0,high pregnancies,normal glucose,normal blood pressure,normal skin thickness,,high bmi,low diabetes pedigree function,normal age
+404,1,normal pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+405,0,low pregnancies,high glucose,low blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+406,1,normal pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,high age
+407,0,low pregnancies,high glucose,normal blood pressure,,,normal bmi,normal diabetes pedigree function,low age
+408,1,high pregnancies,high glucose,normal blood pressure,,,high bmi,high diabetes pedigree function,normal age
+409,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+410,0,normal pregnancies,high glucose,high blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,low age
+411,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+412,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,high diabetes pedigree function,low age
+413,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+414,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+415,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,low age
+416,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,,high bmi,high diabetes pedigree function,low age
+417,1,normal pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,normal age
+418,0,low pregnancies,normal glucose,normal blood pressure,,,low bmi,normal diabetes pedigree function,low age
+419,1,low pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+420,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+421,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+422,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+423,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,normal diabetes pedigree function,low age
+424,1,high pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,normal age
+425,1,normal pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,normal age
+426,0,low pregnancies,normal glucose,,,,,low diabetes pedigree function,low age
+427,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,normal age
+428,0,low pregnancies,high glucose,high blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,low age
+429,1,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,low diabetes pedigree function,high age
+430,0,low pregnancies,normal glucose,,,,normal bmi,low diabetes pedigree function,low age
+431,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,normal age
+432,0,low pregnancies,normal glucose,normal blood pressure,low skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+433,0,low pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,low age
+434,0,low pregnancies,normal glucose,normal blood pressure,low skin thickness,,normal bmi,high diabetes pedigree function,normal age
+435,1,low pregnancies,high glucose,,,,high bmi,low diabetes pedigree function,low age
+436,0,high pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,high age
+437,0,normal pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,low age
+438,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,,low bmi,low diabetes pedigree function,low age
+439,0,normal pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,normal age
+440,1,low pregnancies,high glucose,high blood pressure,normal skin thickness,,high bmi,normal diabetes pedigree function,high age
+441,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+442,0,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+443,1,high pregnancies,high glucose,normal blood pressure,,,high bmi,high diabetes pedigree function,normal age
+444,1,normal pregnancies,high glucose,normal blood pressure,low skin thickness,,high bmi,normal diabetes pedigree function,normal age
+445,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,low insulin,high bmi,high diabetes pedigree function,low age
+446,0,low pregnancies,high glucose,normal blood pressure,low skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+447,0,low pregnancies,normal glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+448,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+449,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+450,0,low pregnancies,normal glucose,normal blood pressure,low skin thickness,normal insulin,normal bmi,normal diabetes pedigree function,low age
+451,1,low pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,low age
+452,0,low pregnancies,normal glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+453,0,low pregnancies,high glucose,,,,normal bmi,high diabetes pedigree function,high age
+454,0,low pregnancies,high glucose,low blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+455,1,high pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,normal age
+456,0,low pregnancies,high glucose,low blood pressure,,,high bmi,normal diabetes pedigree function,high age
+457,0,normal pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+458,1,high pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,high diabetes pedigree function,high age
+459,0,high pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,high age
+460,0,high pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,normal bmi,normal diabetes pedigree function,high age
+461,0,low pregnancies,normal glucose,normal blood pressure,,,normal bmi,normal diabetes pedigree function,low age
+462,0,high pregnancies,normal glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,normal age
+463,0,normal pregnancies,normal glucose,normal blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,normal age
+464,0,high pregnancies,high glucose,high blood pressure,,,normal bmi,high diabetes pedigree function,normal age
+465,0,low pregnancies,high glucose,low blood pressure,low skin thickness,normal insulin,normal bmi,normal diabetes pedigree function,low age
+466,0,low pregnancies,normal glucose,low blood pressure,low skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+467,0,low pregnancies,normal glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+468,1,high pregnancies,high glucose,,,,high bmi,low diabetes pedigree function,normal age
+469,0,normal pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+470,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,low age
+471,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,low age
+472,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,low diabetes pedigree function,low age
+473,0,normal pregnancies,high glucose,high blood pressure,,,high bmi,low diabetes pedigree function,high age
+474,0,normal pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,low age
+475,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,low diabetes pedigree function,high age
+476,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+477,0,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,normal bmi,normal diabetes pedigree function,normal age
+478,0,high pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,low diabetes pedigree function,normal age
+479,0,normal pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,high age
+480,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,normal age
+481,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,low age
+482,0,normal pregnancies,normal glucose,low blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+483,0,low pregnancies,normal glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+484,1,low pregnancies,high glucose,,,,high bmi,normal diabetes pedigree function,normal age
+485,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+486,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+487,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,high diabetes pedigree function,high age
+488,0,normal pregnancies,normal glucose,normal blood pressure,normal skin thickness,,high bmi,low diabetes pedigree function,low age
+489,0,high pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,high age
+490,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+491,0,low pregnancies,normal glucose,high blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,high age
+492,0,normal pregnancies,normal glucose,normal blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,normal age
+493,1,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,high diabetes pedigree function,high age
+494,0,low pregnancies,normal glucose,,,,,low diabetes pedigree function,low age
+495,0,normal pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,high age
+496,0,normal pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,normal age
+497,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+498,1,normal pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,high age
+499,0,normal pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,high diabetes pedigree function,normal age
+500,0,low pregnancies,high glucose,high blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+501,0,low pregnancies,normal glucose,normal blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,low age
+502,1,normal pregnancies,,normal blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,high age
+503,0,normal pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,high age
+504,0,low pregnancies,normal glucose,normal blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,high age
+505,0,high pregnancies,normal glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,normal age
+506,1,low pregnancies,high glucose,high blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,normal age
+507,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+508,0,low pregnancies,normal glucose,low blood pressure,normal skin thickness,normal insulin,high bmi,high diabetes pedigree function,low age
+509,0,high pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,high age
+510,1,high pregnancies,normal glucose,normal blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,high age
+511,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,normal bmi,low diabetes pedigree function,low age
+512,0,high pregnancies,normal glucose,normal blood pressure,,,normal bmi,low diabetes pedigree function,high age
+513,0,low pregnancies,normal glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,low age
+514,0,low pregnancies,normal glucose,low blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+515,1,low pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+516,1,high pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+517,0,normal pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,high age
+518,0,high pregnancies,normal glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+519,0,normal pregnancies,high glucose,high blood pressure,low skin thickness,high insulin,normal bmi,normal diabetes pedigree function,high age
+520,0,low pregnancies,low glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+521,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+522,0,normal pregnancies,high glucose,,,,,low diabetes pedigree function,low age
+523,1,high pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,high age
+524,0,low pregnancies,high glucose,low blood pressure,,,high bmi,low diabetes pedigree function,low age
+525,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,,normal bmi,normal diabetes pedigree function,low age
+526,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,low bmi,low diabetes pedigree function,low age
+527,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+528,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+529,0,low pregnancies,high glucose,normal blood pressure,,,normal bmi,normal diabetes pedigree function,normal age
+530,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+531,0,low pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,low age
+532,0,low pregnancies,normal glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,high diabetes pedigree function,low age
+533,0,normal pregnancies,normal glucose,,,,high bmi,normal diabetes pedigree function,normal age
+534,0,low pregnancies,normal glucose,low blood pressure,high skin thickness,normal insulin,high bmi,high diabetes pedigree function,low age
+535,1,normal pregnancies,high glucose,,,,high bmi,normal diabetes pedigree function,low age
+536,0,low pregnancies,high glucose,high blood pressure,,,high bmi,low diabetes pedigree function,high age
+537,0,low pregnancies,low glucose,normal blood pressure,,,normal bmi,normal diabetes pedigree function,high age
+538,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,high diabetes pedigree function,low age
+539,1,low pregnancies,high glucose,high blood pressure,high skin thickness,high insulin,high bmi,high diabetes pedigree function,normal age
+540,1,high pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+541,1,low pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+542,1,high pregnancies,normal glucose,normal blood pressure,high skin thickness,,high bmi,high diabetes pedigree function,high age
+543,0,normal pregnancies,normal glucose,high blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+544,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+545,1,high pregnancies,high glucose,high blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,normal age
+546,1,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,high diabetes pedigree function,high age
+547,0,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,low diabetes pedigree function,low age
+548,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,high age
+549,0,normal pregnancies,high glucose,high blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,normal age
+550,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,low diabetes pedigree function,low age
+551,0,low pregnancies,normal glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+552,0,normal pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+553,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+554,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+555,0,normal pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,normal age
+556,0,low pregnancies,normal glucose,normal blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,normal age
+557,0,high pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+558,0,high pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,high age
+559,0,high pregnancies,normal glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,normal age
+560,1,normal pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+561,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+562,0,low pregnancies,normal glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+563,0,normal pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,normal age
+564,0,low pregnancies,normal glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,low age
+565,0,low pregnancies,normal glucose,low blood pressure,low skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+566,0,low pregnancies,normal glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+567,0,normal pregnancies,normal glucose,normal blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,high age
+568,0,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,normal age
+569,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,normal age
+570,0,low pregnancies,normal glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,normal age
+571,0,low pregnancies,high glucose,high blood pressure,,,normal bmi,low diabetes pedigree function,low age
+572,0,low pregnancies,high glucose,low blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+573,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+574,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,high diabetes pedigree function,low age
+575,0,low pregnancies,high glucose,low blood pressure,high skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+576,0,normal pregnancies,high glucose,low blood pressure,normal skin thickness,high insulin,normal bmi,high diabetes pedigree function,normal age
+577,1,low pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,low age
+578,0,high pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,normal age
+579,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,high age
+580,1,low pregnancies,high glucose,high blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,low age
+581,0,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,low diabetes pedigree function,low age
+582,0,high pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,low diabetes pedigree function,high age
+583,0,high pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+584,1,high pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+585,0,low pregnancies,normal glucose,low blood pressure,low skin thickness,,normal bmi,normal diabetes pedigree function,low age
+586,1,high pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+587,0,normal pregnancies,high glucose,normal blood pressure,,,normal bmi,low diabetes pedigree function,low age
+588,1,low pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,high diabetes pedigree function,high age
+589,0,low pregnancies,normal glucose,,,,normal bmi,normal diabetes pedigree function,low age
+590,1,high pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,high diabetes pedigree function,high age
+591,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,low age
+592,1,low pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,high age
+593,0,low pregnancies,normal glucose,low blood pressure,normal skin thickness,normal insulin,high bmi,high diabetes pedigree function,low age
+594,0,normal pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,normal age
+595,1,low pregnancies,high glucose,normal blood pressure,low skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+596,0,low pregnancies,low glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+597,0,low pregnancies,normal glucose,low blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+598,1,low pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,normal age
+599,0,low pregnancies,high glucose,low blood pressure,normal skin thickness,normal insulin,normal bmi,normal diabetes pedigree function,low age
+600,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,normal diabetes pedigree function,low age
+601,0,normal pregnancies,normal glucose,,,,normal bmi,low diabetes pedigree function,low age
+602,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,normal age
+603,1,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+604,1,normal pregnancies,high glucose,,,,high bmi,low diabetes pedigree function,normal age
+605,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,low age
+606,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,high diabetes pedigree function,low age
+607,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,normal bmi,normal diabetes pedigree function,low age
+608,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,low age
+609,0,low pregnancies,high glucose,normal blood pressure,low skin thickness,high insulin,normal bmi,low diabetes pedigree function,low age
+610,0,low pregnancies,high glucose,low blood pressure,normal skin thickness,high insulin,high bmi,low diabetes pedigree function,low age
+611,1,low pregnancies,high glucose,low blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,normal age
+612,1,normal pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+613,0,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,high diabetes pedigree function,low age
+614,1,high pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+615,0,low pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,low age
+616,0,normal pregnancies,high glucose,high blood pressure,,,high bmi,low diabetes pedigree function,normal age
+617,0,low pregnancies,low glucose,normal blood pressure,low skin thickness,normal insulin,normal bmi,low diabetes pedigree function,low age
+618,1,high pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,high diabetes pedigree function,high age
+619,1,low pregnancies,high glucose,,,,high bmi,low diabetes pedigree function,low age
+620,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,low age
+621,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,,normal bmi,high diabetes pedigree function,low age
+622,0,normal pregnancies,high glucose,high blood pressure,,,high bmi,high diabetes pedigree function,high age
+623,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+624,0,low pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,low age
+625,0,normal pregnancies,normal glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+626,0,low pregnancies,high glucose,normal blood pressure,,,normal bmi,low diabetes pedigree function,low age
+627,0,low pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,low age
+628,0,normal pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+629,0,normal pregnancies,normal glucose,normal blood pressure,normal skin thickness,,normal bmi,low diabetes pedigree function,low age
+630,1,normal pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,normal age
+631,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+632,0,low pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,low age
+633,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,low diabetes pedigree function,low age
+634,0,high pregnancies,normal glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,normal age
+635,1,high pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,normal age
+636,0,normal pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+637,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+638,1,normal pregnancies,normal glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,high diabetes pedigree function,normal age
+639,0,low pregnancies,high glucose,normal blood pressure,low skin thickness,normal insulin,normal bmi,low diabetes pedigree function,low age
+640,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+641,0,normal pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,low age
+642,1,normal pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+643,0,normal pregnancies,normal glucose,,,,high bmi,normal diabetes pedigree function,normal age
+644,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+645,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,normal age
+646,1,low pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,normal bmi,normal diabetes pedigree function,normal age
+647,1,low pregnancies,high glucose,low blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+648,1,high pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,high age
+649,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,low diabetes pedigree function,low age
+650,0,low pregnancies,normal glucose,low blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+651,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+652,0,normal pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+653,0,low pregnancies,high glucose,low blood pressure,,,high bmi,normal diabetes pedigree function,low age
+654,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,low diabetes pedigree function,low age
+655,1,low pregnancies,high glucose,low blood pressure,normal skin thickness,high insulin,high bmi,low diabetes pedigree function,low age
+656,0,low pregnancies,high glucose,low blood pressure,high skin thickness,normal insulin,normal bmi,low diabetes pedigree function,low age
+657,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,high diabetes pedigree function,high age
+658,0,high pregnancies,high glucose,high blood pressure,,,high bmi,low diabetes pedigree function,high age
+659,1,low pregnancies,normal glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,high diabetes pedigree function,low age
+660,0,high pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+661,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,high diabetes pedigree function,low age
+662,1,high pregnancies,high glucose,high blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,high age
+663,1,high pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+664,1,normal pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,high age
+665,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,low age
+666,1,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,low diabetes pedigree function,high age
+667,1,high pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,low diabetes pedigree function,high age
+668,0,normal pregnancies,normal glucose,low blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+669,0,high pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,low diabetes pedigree function,high age
+670,0,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+671,0,low pregnancies,normal glucose,low blood pressure,low skin thickness,,high bmi,normal diabetes pedigree function,low age
+672,0,high pregnancies,low glucose,high blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,high age
+673,0,low pregnancies,high glucose,high blood pressure,high skin thickness,high insulin,high bmi,high diabetes pedigree function,low age
+674,0,high pregnancies,normal glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,high age
+675,1,normal pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,normal age
+676,1,high pregnancies,high glucose,normal blood pressure,,,normal bmi,low diabetes pedigree function,high age
+677,0,low pregnancies,normal glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,low age
+678,1,low pregnancies,high glucose,low blood pressure,,,high bmi,low diabetes pedigree function,low age
+679,0,low pregnancies,high glucose,low blood pressure,normal skin thickness,high insulin,normal bmi,normal diabetes pedigree function,low age
+680,0,low pregnancies,low glucose,low blood pressure,normal skin thickness,normal insulin,normal bmi,normal diabetes pedigree function,low age
+681,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,low age
+682,0,low pregnancies,normal glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+683,1,normal pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,low age
+684,0,normal pregnancies,high glucose,normal blood pressure,,,,normal diabetes pedigree function,high age
+685,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+686,0,low pregnancies,high glucose,normal blood pressure,,,normal bmi,normal diabetes pedigree function,low age
+687,0,low pregnancies,high glucose,low blood pressure,normal skin thickness,,high bmi,low diabetes pedigree function,low age
+688,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,normal bmi,high diabetes pedigree function,low age
+689,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+690,0,high pregnancies,high glucose,normal blood pressure,,,normal bmi,high diabetes pedigree function,normal age
+691,1,high pregnancies,high glucose,high blood pressure,,,high bmi,low diabetes pedigree function,high age
+692,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,high diabetes pedigree function,low age
+693,1,normal pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,high age
+694,0,low pregnancies,normal glucose,normal blood pressure,,,normal bmi,low diabetes pedigree function,low age
+695,1,normal pregnancies,high glucose,high blood pressure,normal skin thickness,high insulin,high bmi,low diabetes pedigree function,high age
+696,1,low pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,normal age
+697,0,low pregnancies,normal glucose,,,,high bmi,low diabetes pedigree function,low age
+698,0,normal pregnancies,high glucose,normal blood pressure,low skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+699,0,normal pregnancies,high glucose,normal blood pressure,,,high bmi,high diabetes pedigree function,low age
+700,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+701,1,normal pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,high age
+702,1,low pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,high diabetes pedigree function,high age
+703,0,low pregnancies,high glucose,,,,high bmi,normal diabetes pedigree function,high age
+704,0,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+705,0,normal pregnancies,normal glucose,normal blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,low age
+706,1,high pregnancies,high glucose,,,,,low diabetes pedigree function,normal age
+707,0,low pregnancies,high glucose,low blood pressure,normal skin thickness,high insulin,high bmi,low diabetes pedigree function,low age
+708,1,high pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+709,1,low pregnancies,normal glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+710,0,low pregnancies,high glucose,normal blood pressure,low skin thickness,high insulin,high bmi,low diabetes pedigree function,low age
+711,0,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,high age
+712,1,high pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,normal age
+713,0,low pregnancies,high glucose,low blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+714,0,low pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,normal age
+715,1,normal pregnancies,high glucose,low blood pressure,high skin thickness,high insulin,high bmi,high diabetes pedigree function,normal age
+716,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,high diabetes pedigree function,normal age
+717,0,high pregnancies,normal glucose,normal blood pressure,normal skin thickness,,normal bmi,normal diabetes pedigree function,high age
+718,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+719,1,normal pregnancies,normal glucose,normal blood pressure,normal skin thickness,,high bmi,normal diabetes pedigree function,high age
+720,0,normal pregnancies,normal glucose,normal blood pressure,normal skin thickness,,high bmi,normal diabetes pedigree function,normal age
+721,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,low age
+722,1,low pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+723,0,normal pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,low diabetes pedigree function,high age
+724,0,low pregnancies,high glucose,high blood pressure,,,high bmi,low diabetes pedigree function,high age
+725,0,normal pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,normal age
+726,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+727,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,normal diabetes pedigree function,low age
+728,0,low pregnancies,high glucose,normal blood pressure,,,normal bmi,normal diabetes pedigree function,low age
+729,0,low pregnancies,normal glucose,low blood pressure,,,high bmi,low diabetes pedigree function,low age
+730,1,low pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,normal age
+731,1,high pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,low age
+732,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+733,0,low pregnancies,high glucose,low blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+734,0,low pregnancies,high glucose,normal blood pressure,,,normal bmi,normal diabetes pedigree function,high age
+735,0,normal pregnancies,normal glucose,normal blood pressure,high skin thickness,,high bmi,low diabetes pedigree function,low age
+736,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+737,0,high pregnancies,low glucose,normal blood pressure,normal skin thickness,,high bmi,normal diabetes pedigree function,high age
+738,0,low pregnancies,normal glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,low age
+739,1,low pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+740,1,high pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,normal diabetes pedigree function,high age
+741,0,low pregnancies,high glucose,low blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+742,0,low pregnancies,high glucose,low blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+743,1,high pregnancies,high glucose,high blood pressure,,,high bmi,normal diabetes pedigree function,high age
+744,0,high pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,high diabetes pedigree function,normal age
+745,0,high pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,normal diabetes pedigree function,high age
+746,1,low pregnancies,high glucose,high blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,low age
+747,0,low pregnancies,normal glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,high diabetes pedigree function,normal age
+748,1,low pregnancies,high glucose,normal blood pressure,normal skin thickness,high insulin,high bmi,normal diabetes pedigree function,normal age
+749,1,normal pregnancies,high glucose,normal blood pressure,,,normal bmi,low diabetes pedigree function,high age
+750,1,normal pregnancies,high glucose,normal blood pressure,,,high bmi,high diabetes pedigree function,low age
+751,0,low pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,low diabetes pedigree function,low age
+752,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,low diabetes pedigree function,low age
+753,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,low age
+754,1,high pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,high age
+755,1,low pregnancies,high glucose,normal blood pressure,high skin thickness,normal insulin,high bmi,high diabetes pedigree function,normal age
+756,0,normal pregnancies,high glucose,high blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,normal age
+757,1,low pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,high age
+758,0,low pregnancies,high glucose,normal blood pressure,,,high bmi,low diabetes pedigree function,low age
+759,1,normal pregnancies,high glucose,high blood pressure,,,high bmi,low diabetes pedigree function,high age
+760,0,low pregnancies,normal glucose,low blood pressure,normal skin thickness,normal insulin,high bmi,normal diabetes pedigree function,low age
+761,1,high pregnancies,high glucose,normal blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,high age
+762,0,high pregnancies,normal glucose,normal blood pressure,,,normal bmi,low diabetes pedigree function,normal age
+763,0,high pregnancies,high glucose,normal blood pressure,high skin thickness,high insulin,high bmi,low diabetes pedigree function,high age
+764,0,low pregnancies,high glucose,normal blood pressure,normal skin thickness,,high bmi,normal diabetes pedigree function,low age
+765,0,normal pregnancies,high glucose,normal blood pressure,normal skin thickness,normal insulin,high bmi,low diabetes pedigree function,normal age
+766,1,low pregnancies,high glucose,normal blood pressure,,,high bmi,normal diabetes pedigree function,high age
+767,0,low pregnancies,normal glucose,normal blood pressure,high skin thickness,,high bmi,normal diabetes pedigree function,low age

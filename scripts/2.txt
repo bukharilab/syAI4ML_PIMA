@@ -1,0 +1,5 @@
+LOAD CSV WITH HEADERS FROM "https://drive.usercontent.google.com/uc?id=1MJMQQwaruv7wToEcW6k8k3XXhtd4pB2p&export=download" AS row
+
+CREATE (sample:Sample {
+  SampleNumber: toInteger(row.SampleNumber)
+})

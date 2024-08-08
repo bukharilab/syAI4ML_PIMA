@@ -1,0 +1,21 @@
+LOAD CSV WITH HEADERS FROM "https://drive.usercontent.google.com/uc?id=1MJMQQwaruv7wToEcW6k8k3XXhtd4pB2p&export=download" AS row
+
+WITH row,
+  [
+    {column: 'Pregnancies_Bucket', relationship: 'HAS_PREGNANCIES'},
+    {column: 'Glucose_Bucket', relationship: 'HAS_GLUCOSE'},
+    {column: 'BloodPressure_Bucket', relationship: 'HAS_BLOOD_PRESSURE'},
+    {column: 'SkinThickness_Bucket', relationship: 'HAS_SKIN_THICKNESS'},
+    {column: 'Insulin_Bucket', relationship: 'HAS_INSULIN'},
+    {column: 'BMI_Bucket', relationship: 'HAS_BMI'},
+    {column: 'DiabetesPedigreeFunction_Bucket', relationship: 'HAS_DIABETES_PEDIGREE_FUNCTION'},
+    {column: 'Age_Bucket', relationship: 'HAS_AGE'}
+  ] AS columns
+
+UNWIND columns AS col
+WITH row, col
+WHERE row[col.column] IS NOT NULL AND row[col.column] <> ''
+MATCH (sample:Sample {SampleNumber: toFloat(row.SampleNumber)})
+MATCH (mc:medical_concept {name: row[col.column]})
+CALL apoc.create.relationship(sample, col.relationship, {}, mc) YIELD rel
+RETURN rel;
