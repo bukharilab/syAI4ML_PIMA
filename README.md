@@ -1,13 +1,12 @@
-# syAI4ML_PIMA A project by Bukhari Lab
+# A Symbolic AI Framework for Enhanced Diabetes Prognosis Accuracy and Explainability
 
-Contributors
+# Contributors
 
 - Iram Wajahat
 - AmritPal Singh
 - Fazel Keshtkar
 - Syed Ahmad Chan Bukhari
 
-A Symbolic AI Framework for Enhanced Diabetes Prognosis Accuracy and Explainability
 
 ## Tutorial:
 To execute the code from scratch, please follow these steps:
